@@ -1,0 +1,22 @@
+{
+  "name": "node-chatbot-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "fantasy-names": "^1.0.2",
+    "array.prototype.findindex": "^2.0.0",
+    "bluebird": "^3.5.0",
+    "firebase": "^3.7.0",
+    "promise": "^7.1.1",
+    "node-telegram-bot-api": "^0.27.0",
+    "util": "^0.10.3",
+    "spinners": "^1.2.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
